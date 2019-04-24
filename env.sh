@@ -1,4 +1,4 @@
-# this file needs to be installed into /etc/profile.d/
+# this file can be actived in: /etc/profile.d/ for global settings, or into ~/.bashrc for individual user.
 # this is an file for setting up the user environment.
 
 
