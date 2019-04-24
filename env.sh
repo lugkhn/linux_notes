@@ -7,6 +7,22 @@
 # [\e[1;5;41;33m\] : this part is about beeping, colours, highlight...
 PS1="\[\e[1;5;41;33m\][\u2\h \w]\\$\[\e[0m\]"
 
+# Example: Green BG, White Highlight hostname::time:user:pwd
+# PS1="\[\e[1;42;39m\][\h::\t::\u \w]\\$\[\e[0m\]"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
